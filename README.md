@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheethal</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/07/85/49/13/1000_F_785491346_HhprqgkfmFvzKF0b50glOAGNRURyutHr.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheethal-madithilveedu&label=Profile%20views&color=0e75b6&style=flat" alt="sheethal-madithilveedu" /> </p>
 
