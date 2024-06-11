@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **an e-commerce website**
 
-- 🌱 I’m currently learning **pytho**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **sheethalmadithilveedu@gmail.com**
 
