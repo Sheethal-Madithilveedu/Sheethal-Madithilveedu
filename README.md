@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sheethal Madathil</h1>
+<h1 align="center">Hi, I'm Sheethal Madathil</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
 
