@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi, I'm Sheethal Madathil</h1>
 <h3 align="center">An aspiring software developer from India</h3>
-
+![Women in tech](https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif
+)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheethal-madithilveedu&label=Profile%20views&color=0e75b6&style=flat" alt="sheethal-madithilveedu" /> </p>
 
